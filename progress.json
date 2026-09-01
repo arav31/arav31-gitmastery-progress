@@ -126,5 +126,14 @@
       "Did not add joe.txt"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1788262485.167368,
+    "completed_at": 1788262486.565902,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
   }
 ]
