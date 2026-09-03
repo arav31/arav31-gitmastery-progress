@@ -304,5 +304,14 @@
       "Great work! You have successfully updated the tags to point to the correct commits."
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1788405279.153126,
+    "completed_at": 1788405280.588261,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
+    ],
+    "status": "Completed"
   }
 ]
